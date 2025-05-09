@@ -1,0 +1,1 @@
+python -m shadow_harmony --full-scan
